@@ -1,33 +1,61 @@
-👋 Hello, I'm [Your Name]!
-Welcome to my GitHub profile! I'm a passionate developer with experience in various programming languages and technologies. My primary focus is on [your focus areas, e.g., web development, machine learning, DevOps], and I'm always eager to learn new things and take on challenging projects.
+
+![240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e](https://github.com/user-attachments/assets/1c349d80-426f-4c07-91e0-24ee95a7b76d)
+
+
+👋 I'm Carlos Saucedo a.k.a Salix!
+
+Welcome to my GitHub profile! I'm a passionate developer with experience in various programming languages and technologies. My primary focus is on full-stack development, back-end dev, devOps, and I'm always eager to learn new things and take on challenging projects.
 
 🔭 What I'm Working On
-[Project Name]: A brief description of what the project is about.
-[Project Name]: Another project you’re currently working on, with a short description.
+
+USDA Documentation webApp: To standarize operational procedures onto digital forms, document and save form submissions into a database for future audits. 
+
+EHR WebApp: Another project I am currently working on, a webApp that will standarize procedures within a medical field, be it clinic / hospital. Will be able to communicate with providers and get your results and prescriptions through the webApp.
+
 🌱 What I'm Learning
-[Skill or technology you're currently learning, e.g., React, Kubernetes, etc.]
-[Another skill or technology, e.g., AI/ML, Cloud Computing, etc.]
+
+MongoDB, AWS, Cloud Computing
+
 💻 Technologies & Tools
-Languages: [List of programming languages you are proficient in, e.g., Python, JavaScript, Java]
-Frameworks: [List of frameworks you have experience with, e.g., React, Node.js, Django]
-Tools: [List of tools and platforms you frequently use, e.g., Git, Docker, AWS]
+
+Languages: Python, JavaScript,
+
+Frameworks: React, Node.js, Django
+
+Tools: Git, Docker, learning AWS and more Cloud Computing 
+
 📝 Blog Posts
+
 [Title of Blog Post](Link to blog post) - A brief description or the main takeaway from the post.
 [Title of Blog Post](Link to blog post) - Another blog post with a brief description.
+
 📫 How to Reach Me
+
 Email: csauce295@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/carlos-saucedo-b2a537281/
+
 Twitter: @SalixSauce_
+
 Personal Website: Coming Soon....
+
 💼 My Projects
+
 [Project Name]
 [Project Name]
 [Project Name]
+
 🎮 Fun Facts
+
 I love to watch anime of all sorts, I have been watching anime since I was a kid, I enjoy playing video games, pretty much anything that I can get on with the buddies after work. 
 My favorite programming challenge is any challenge that can make my head hurt and not feel satifisfied until it is solved.
+
 🚀 Let's Collaborate
+
 I'm always open to collaborating on interesting projects or contributing to open-source. Feel free to reach out if you have any ideas or just want to chat about tech!
+
+
+![271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5](https://github.com/user-attachments/assets/0346782a-67a9-4c0c-b398-35f713fe0886)
 
 
 
