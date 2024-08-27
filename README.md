@@ -24,11 +24,6 @@ Frameworks: React, Node.js, Django
 
 Tools: Git, Docker, learning AWS and more Cloud Computing 
 
-📝 Blog Posts
-
-[Title of Blog Post](Link to blog post) - A brief description or the main takeaway from the post.
-[Title of Blog Post](Link to blog post) - Another blog post with a brief description.
-
 📫 How to Reach Me
 
 Email: csauce295@gmail.com
@@ -41,9 +36,9 @@ Personal Website: Coming Soon....
 
 💼 My Projects
 
-[Project Name]
-[Project Name]
-[Project Name]
+EHR WebApp
+USDA Form Documentation App
+
 
 🎮 Fun Facts
 
